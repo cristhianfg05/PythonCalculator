@@ -32,7 +32,6 @@ def calcular():
     i=0
     e_texto.delete(0,END)
     e_texto.insert(i,resultado)
-    print(i)
     
 
 #Botones
